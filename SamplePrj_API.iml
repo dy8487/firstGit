@@ -10,17 +10,17 @@
     </src_description>
   </component>
   <component name="NewModuleRootManager" inherit-compiler-output="false">
-    <output url="file://D:/_sampleWorkplace/SamplePrj_API/WebContent/WEB-INF/classes" />
+    <output url="file://$MODULE_DIR$/SamplePrj_API/WebContent/WEB-INF/classes" />
     <exclude-output />
     <content url="file://$MODULE_DIR$/SamplePrj_API">
       <sourceFolder url="file://$MODULE_DIR$/SamplePrj_API/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SamplePrj_API/resource" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SamplePrj_API/WebContent" isTestSource="false" />
     </content>
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="jdk" jdkName="jdk1.6.0_26" jdkType="JavaSDK" />
-    <orderEntry type="library" name="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v6.0" level="application" />
-    <orderEntry type="library" name="org.eclipse.jst.j2ee.internal.web.container" level="application" />
-    <orderEntry type="library" name="org.eclipse.jst.j2ee.internal.module.container" level="application" />
+    <orderEntry type="jdk" jdkName="1.7" jdkType="JavaSDK" />
+    <orderEntry type="library" scope="PROVIDED" name="Tomcat 6.0" level="application_server_libraries" />
+    <orderEntry type="library" name="lib" level="project" />
   </component>
 </module>
 
